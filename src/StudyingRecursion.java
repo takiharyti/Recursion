@@ -1,6 +1,6 @@
 /*
 Author: Tenny Akihary
-Class: CSC 191
+Class: *** ***
 Project: StudyingRecursion
 Purpose: Different functions and methods using recursion and exceptions.
  */
